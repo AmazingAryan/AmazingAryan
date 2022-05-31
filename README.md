@@ -1,7 +1,7 @@
 - 👋 Greetings, I’m @AmazingAryan
-- 👀 I’m interested in coding, learning new technologies, competitive coding and contributing in opensource.
-- 🌱 I’m currently learning C++, React, Python and Android(Java & Kotlin)
-- 💞️ I’m looking to collaborate on OpenSource, mini-projects and mega-projects
+- 👀 I’m interested in learning new technologies, competitive coding and contributing in opensource.
+- 🌱 I’m currently learning C++, React-Js, Python and Android(Java & Kotlin)
+- 💞️ I’m looking forward to collaborate on OpenSource, mini-projects and mega-projects
 - 📫 How to reach me: officially(email): aryan191990@gmail.com
                       inofficially(Discord): 𝐀G#7411
 
