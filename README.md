@@ -4,6 +4,7 @@
 - 💞️ I’m looking forward to collaborate on OpenSource, mini-projects and mega-projects
 - 📫 How to reach me: official(email): aryan191990@gmail.com
                       unofficial(Discord): 𝐀G#7411
+                      LinkedIn: https://www.linkedin.com/in/aryan-neelam-08aa66218
 
 <!---
 AmazingAryan/AmazingAryan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
