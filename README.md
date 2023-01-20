@@ -12,3 +12,8 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmazingAryan&show_icons=true&theme=algolia)
+
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AmazingAryan&theme=algolia)](https://git.io/streak-stats)
+
