@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning new technologies, competitive coding and contributing in opensource.
 - 🌱 I’m currently learning C++, Python, MERN and Flutter.
 - 💞️ I’m looking forward to collaborate on OpenSource, mini-projects and internship opportunities
-- 📫 How to reach me => Email: aryan191990@gmail.com LinkedIn: https://www.linkedin.com/in/aryan-neelam-08aa66218 Discord: 𝐀G#7411
+- 📫 How to reach me => Email: aryan191990@gmail.com LinkedIn: https://www.linkedin.com/in/aryan-neelam-08aa66218 
 
 
 <!---
